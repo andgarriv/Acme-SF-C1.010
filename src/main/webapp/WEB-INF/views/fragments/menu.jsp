@@ -24,7 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.antlopcub" action="https://pokemon.alexonsager.net/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Javier-Nieto" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Pablo-Diaz" action="https://www.astonmartinf1.com/en-GB/"/>
-			
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.Andres-Garcia" action="https://soymotor.com/"/>
 
 		</acme:menu-option>
 
